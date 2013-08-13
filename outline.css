@@ -1,0 +1,9 @@
+.links {
+	outline: 2px solid #b94a48 !important; 
+}
+input[type=image] {
+	outline: 1px solid #468847 !important; 
+}
+.links.selectedAlias {
+	outline: 2px solid #0000ff !important; 
+}
